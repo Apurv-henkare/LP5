@@ -1,0 +1,13 @@
+terminal 1:
+
+javac *.java
+java server 
+
+
+terminal 2:
+java client 
+Hi CSK WON
+ 
+
+
+

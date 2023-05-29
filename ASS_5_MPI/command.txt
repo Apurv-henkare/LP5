@@ -1,0 +1,5 @@
+terminal 1:
+
+export MPJ_HOME=/home/apurvhenkare/Desktop/Final_Folder/ASS_5_MPI/mpi
+javac -cp $MPJ_HOME/lib/mpj.jar ScatterGather.java
+$MPJ_HOME/bin/mpjrun.sh -np 4 ScatterGather

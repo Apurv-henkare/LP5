@@ -1,0 +1,16 @@
+terminal 1:
+
+1.javac *.java
+2.rmic AdderRemote
+3.rmiregistry 5000 
+
+
+terminal 2 Run server first 
+1. java Myserver 
+
+
+terminal 3 Run Client
+1. java Myclient 
+
+check 44 as answer
+
